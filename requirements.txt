@@ -1,0 +1,4 @@
+pandas
+tqdm
+langchain-openai
+langchain-core
